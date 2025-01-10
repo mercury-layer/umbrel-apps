@@ -1,0 +1,22 @@
+manifestVersion 1
+id: mercurylayer
+category: bitcoin
+name: Mercury Layer
+version: "0.1.0"
+tagline: ""
+description: >-
+  Mercury Layer is a Bitcoin Layer 2
+releaseNotes: >-
+  Initial release
+developer: Mercury Layer
+website: https://mercurylayer.org
+dependencies:
+repo: https://github.com/mercury-layer/mercurylayer
+support: https://github.com/mercury-layer/mercurylayer/issues
+port: 8000
+gallery:
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Mercury Layer
+submission:
