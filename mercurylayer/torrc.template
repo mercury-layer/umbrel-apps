@@ -1,0 +1,2 @@
+HiddenServiceDir /data/app-$APP_ID-rest
+HiddenServicePort $APP_MERCURY_SERVER_PORT $APP_MERCURY_SERVER_IP:$APP_MERCURY_SERVER_PORT
